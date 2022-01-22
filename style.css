@@ -32,7 +32,7 @@ form::after {
   width: 60px;
   height: 60px;
   border-radius: 150px;
-  background: linear-gradient(65deg, #16d9e7, #5ef9a4);
+  background: linear-gradient(65deg, #ffffff, #000000);
   top: -30px;
   left: 50%;
   transform: translateX(-50%);
@@ -84,7 +84,8 @@ p {
 }
 input[type="submit"] {
   border: none;
-  background: linear-gradient(65deg, #16d9e7, #5ef9a4);
+  background: linear-gradient(65deg, #ffffff, #000000);
+  color: #ffffff;
   width: 50%;
   margin: 12px auto 0;
   padding: 10px;
